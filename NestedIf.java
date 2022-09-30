@@ -10,6 +10,7 @@ class NestedIf
 		int num2 = sc.nextInt();
 		System.out.println("Enter num3 value: ");
 		int num3 = sc.nextInt();
+		
 		if (num1 > num2)
 		{
 			if (num1 > num3)
