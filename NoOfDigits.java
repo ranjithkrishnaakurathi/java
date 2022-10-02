@@ -8,10 +8,9 @@ class NoOfDigits
 		int num = sc.nextInt();
 		int count=0;
 		
-		int i = 1;
 		while(num > 0){
 			num=num/10;
-			count+=1;
+			count++;
 		}
 		System.out.println("No of digits in a given number: "+count);
 	}
