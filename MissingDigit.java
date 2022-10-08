@@ -1,4 +1,3 @@
-import java.util.*;
 class MissingDigit
 {
 	public static void main(String[] args)
