@@ -1,4 +1,3 @@
-import java.util.Arrays;
 class VarArgs
 {	
 	static int sum(int... x)
